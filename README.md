@@ -1,1 +1,1 @@
-# Storybook React tutorial.
+# Storybook React tutorial
